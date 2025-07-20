@@ -1,5 +1,7 @@
 # Flowaii
 
+The goal of Particle Flow is to build clearer pictures of collisions by combining detectors for improved energy-momentum measurements, and by inference for ambiguity resolution.
+
 See the [pages site](https://ath11.pages.oit.duke.edu/flowaii/) for more info about this project.
 
 ## Main
