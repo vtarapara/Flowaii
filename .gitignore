@@ -1,0 +1,10 @@
+# exclude plots
+*~
+intnotes.md
+status.md
+notebooks/plots
+notebooks/.*
+data
+!/foo
+/foo/*
+!/foo/bar
